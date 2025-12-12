@@ -6062,7 +6062,7 @@
             "dist": {
                 "type": "path",
                 "url": "../ynab-sdk-laravel",
-                "reference": "40630b818025eeec001fd88d8377da25c60b2c43"
+                "reference": "0c85366e11f751e93340b7020cf394216b408c34"
             },
             "require": {
                 "guzzlehttp/guzzle": "^7.9.2",
