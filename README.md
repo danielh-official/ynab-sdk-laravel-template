@@ -4,7 +4,7 @@ A ready-made Laravel project for testing the [ynab-sdk-laravel](https://packagis
 
 ## Getting Started
 
-1. Fork and clone: `git clone https://github.com/[your-username]/ynab-sdk-laravel.git`
+1. Fork and clone: `git clone https://github.com/[your-username]/ynab-sdk-laravel-template.git`
 2. Go into `composer.json` and set `repositories.ynab-sdk-laravel.path` to the path where your `ynab-sdk-laravel` is located (by default, we assume it's located in the same directory adjacent to this template)
    - If you want to test the published package, simply remove the "repositories" object from `composer.json` and run `composer update`.
 4. Run `composer setup` and complete instructions
